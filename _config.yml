@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Risk Analytics Lab."
+title                    : "Risk Analytics Lab"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Risk Analytics Lab."
-description              : "UNIST Risk Analytics Lab."
+subtitle                 : "Risk Analytics Lab @ UNIST"
+name                     : "Risk Analytics Lab"
+description              : "Risk Analytics Lab @ UNIST"
 url                      : "https://ralab-unist.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
